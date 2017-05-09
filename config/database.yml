@@ -25,3 +25,4 @@ production:
   encoding: utf8
   database: project_production
   pool: 25
+  host: localhost
